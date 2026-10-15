@@ -80,4 +80,4 @@ terms; links are collected in [third-party software](docs/THIRD_PARTY.md).
 
 ---
 
-[Fred (Yanbo) Jing](https://github.com/Fred-Jing) · Upcoming poster presentation at NIPS 2026.
+[Fred (Yanbo) Jing](https://github.com/Fred-Jing) · Upcoming presentation at NIPS 2026 · AI for drug design · AI4DD
